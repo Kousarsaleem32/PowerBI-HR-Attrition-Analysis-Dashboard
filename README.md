@@ -62,8 +62,7 @@ The raw HR dataset was cleaned and transformed using Power Query, involving:
 ---
 
 ## Dashboard Preview
-
-![Dashboard Screenshot](HR DASHBOARD.png)
+![Dashboard Screenshot](HR%20DASHBOARD.png)
 
 ---
 
